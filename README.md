@@ -6,24 +6,36 @@ This Python tool sends different images to different recipients in one go. Each 
 ✨ Features
 
 ✔️ Automated bulk sending – no manual effort
+
 ✔️ Unique image for each recipient (based on order)
+
 ✔️ Common subject & body – same for all recipients
+
 ✔️ Secure Gmail SMTP integration
+
 ✔️ Perfect for certificates, invitations, IDs, or QR codes
+
 
 ⚙️ How It Works
 
 1️⃣ Store images as 1.jpg, 2.jpg, 3.jpg, … inside the images/ folder
+
 2️⃣ Create an emails.txt file with recipients in the same order
+
 3️⃣ Add your Gmail address & App Password to the script
+
 4️⃣ Run the script → each recipient gets their corresponding image 📩
+
 5️⃣ Done! 🎉
 
 📌 Use Cases
 
 🏆 Certificates – distribute event/contest certificates
+
 🎟️ Invites – send unique QR-coded event invitations
+
 🆔 ID Cards – bulk distribution to students/employees
+
 💼 Reports/Receipts – automated personalized delivery
 
 🚀 Quick Start
