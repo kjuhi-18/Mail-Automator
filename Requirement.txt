@@ -1,0 +1,2 @@
+imagefolder
+emailaddress list
