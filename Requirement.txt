@@ -1,2 +1,5 @@
-imagefolder
-emailaddress list
+# Requirements for Image Mail Automator
+# These libraries are built into Python (no pip install needed):
+ smtplib
+ email
+ os
