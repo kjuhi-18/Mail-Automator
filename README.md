@@ -77,10 +77,15 @@ python mail_automator.py
 ✅ Each recipient in emails.txt will receive the corresponding image from the images/ folder.
 
 📂 Project Structure
+
 📦 Image-Mail-Automator
+
  ┣ 📜 mail_automator.py      # main script
+ 
  ┣ 📜 emails.txt             # recipient list (one email per line)
+ 
  ┣ 📂 images/                # 1.jpg, 2.jpg, ...
+ 
  ┗ 📜 README.md
 
 🌟 Why Use This?
