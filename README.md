@@ -96,7 +96,9 @@ This project makes it fast ⚡, reliable ✅, and hassle-free 🎉.
 💡 Future Enhancements
 
 ✅ Support for HTML-rich body content
+
 ✅ Multiple attachments per recipient
+
 ✅ CSV-based email-image mapping
 
 🔥 Save hours of manual effort – let automation handle your mailing!
