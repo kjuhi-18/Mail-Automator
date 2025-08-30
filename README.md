@@ -63,8 +63,11 @@ Copy the 16-character password.
 Open mail_automator.py and edit these lines:
 
 SENDER_EMAIL = "yourgmail@gmail.com"
+
 PASSWORD = "your-16-digit-app-password"
+
 SUBJECT = "Your Subject Here"
+
 BODY = "Hello,\n\nPlease find your attachment.\n\nBest Regards"
 
 ▶️ Run the Project
